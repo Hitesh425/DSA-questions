@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hitesh425/DSA-questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Hitesh425/DSA-questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hitesh425/DSA-questions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hitesh425/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hitesh425/DSA-questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Hitesh425/DSA-questions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh425/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hitesh425/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hitesh425/DSA-questions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh425/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hitesh425/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
