@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hitesh425/DSA-questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Hitesh425/DSA-questions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hitesh425/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Hitesh425/DSA-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh425/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hitesh425/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Hitesh425/DSA-questions/tree/master/1260-shift-2d-grid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Hitesh425/DSA-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Hitesh425/DSA-questions/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Hitesh425/DSA-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
